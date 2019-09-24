@@ -29,6 +29,10 @@ def play():
 	#Call function to roll the dice
 	roll()
 
+
+	#BEWARE - Only a Potentate of the Rose should read on
+
+
 	#Score the roll
 	score = 0
 	for x in dice:
